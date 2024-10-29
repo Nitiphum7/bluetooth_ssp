@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/bluetooth_ssp/build/CMakeFiles/bootloader
+D:/bluetooth_ssp/build/CMakeFiles/bootloader.rule
+D:/bluetooth_ssp/build/CMakeFiles/bootloader-complete.rule
+D:/bluetooth_ssp/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/bluetooth_ssp/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/bluetooth_ssp/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/bluetooth_ssp/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/bluetooth_ssp/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/bluetooth_ssp/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/bluetooth_ssp/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
